@@ -19,3 +19,5 @@ Although never is often better than \*right\* now.（不做比盲目去做好^�
 If the implementation is hard to explain, it's a bad idea.（如果一个实现方案难于理解，它就不是一个好的方案）
 If the implementation is easy to explain, it may be a good idea.（如果一个实现方案易于理解，它很有可能是一个好的方案）
 Namespaces are one honking great idea -- let's do more of those!（命名空间非常有用，我们应当多加利用）
+
+Do better!
